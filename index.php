@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>40 KILÓT FOGYOTT, KIDOBTA A ZSÁKRUHÁKAT MAKÁNY MÁRTA</title>
+	<link href="https://fonts.googleapis.com/css2?family=Alata&display=swap" rel="stylesheet">
+</head>
+<body style="width:960px;margin:0 auto; max-width: 100%;">
+	<h1 style="font-family: Alata">40 KILÓT FOGYOTT, KIDOBTA A ZSÁKRUHÁKAT MAKÁNY MÁRTA</h1>
+	<h2 style="font-family: Alata">Változtatott az adagokon, radikálisan csökkentette a szénhidrátbevitelt, és hamarosan sportolni is elkezd. Makány Márta divattervező 40 kilót fogyott, amihez a leginkább türelemre volt szüksége.</h2>
+	<p style="font-family: Alata">Azt mondják, mindig van az ember életében egy pont, egy esemény, amikor azt mondja: most változtatok. Makány Márta esetében azonban ez máshogyan volt. „Az az igazság, hogy mióta az eszemet tudom, mindig fogyóztam, mindig több voltam az indokoltnál. Néha lement pár kiló, aztán vissza is jött. Szóval most nem volt egy ilyen pillanat, egyszerűen összeállt az évek tapasztalata, és ez végre meghozta a sikert”- magyarázta nekünk a sikeres divattervező, aki hozzáteszi, hogy a túlsúlyának még szerencsére nem volt egészségügyi következménye.
+
+A 40 kiló mínuszhoz azonban alaposan változtatnia kellett az életmódján. „Sosem ettem igazán egészségtelenül, csak a mennyiségeket és az arányokat kellett megváltoztatnom. A szénhidrát bevitelt igyekszem racionalizálni, és elkezdtem egy applikációba írogatni, hogy miket eszem egy nap, ezzel a tervezett kalória mennyiséget nem túllépni. Egy gyógynövény komplexum segített még nagyon sokat. Ebben olyan hatóanyagok vannak, amik elveszik az éhségérzetemet, a bevitt szénhidrátok pedig könnyebben hasznosulnak. Az egyik hatóanyag pedig az agyalapi mirigyemre hát, és így elkerülnek a falási rohamok. Ezen kívül ha van rá mód, akkor otthonról viszem magammal az ételeket, amiket higgadtan állítok össze, míg éhesen nem biztos, hogy a legjobb döntéseket hozom.”</p>
+	<center><img src="img/makanymarta.jpg" alt="" style="margin-top:20px;margin-bottom: 20px; width:80%; border: 1px solid;"></center>
+	<p style="font-family: Alata">Persze úgy tartják, hogy nincs sikeres életmódváltás buktatók nélkül. Makány Márta számára a legnehezebb feladat maga a türelem volt. „Meg kellett tanulnom türelmesnek lenni. Ha volt időm elhízni, akkor legyen időm a fogyásra is. Viszont ahogy elindult a fogyás, nagyon nagy löketet adott a folytatáshoz. Szerencsére nem kellett hónapokat várni az első sikerekig, így az egész eddig megtett út sokkal könnyebb volt.” De diétán, és a türelmen kívül, a mozgás is nélkülözhetetlen lépés egy ilyen úton. Persze nehéz sportolni, ha az ember 100 kiló felett van. „Eddig nem volt része az életemnek a sport, de lelkileg készülök rá. Ahogy egyszer csak a fogyás is beindult, talán a sport is beköszönt az életembe. 100 kiló felett mozogni is nehezebb, a mostani súlyom viszont már lehetővé teszi a barátkozást a különböző lehetőségekkel”- magyarázta a divattervező, aki hozzátette, hogy nagyon imponál számára az a rengeteg pozitív visszajelzés, amit utcán ismeretlen járókelőktől, a közösségi oldalain vagy épp családtagoktól és barátoktól kap. És, hogy változott e az öltözködése, a fogyás után? Arra is rákérdeztünk! „Mindig is tisztában voltam az adottságaimmal, volt pár bevált fazon, és azokat hordtam. Korábban a zsákszerű ruhák jellemzőbbek voltak, ma pedig már van mit kiemelni és láttatni.”</p>
+	<center><img src="img/makanymarta2.jpg" alt="" style="margin-top:20px;margin-bottom: 20px; border: 1px solid;"></center>
+</body>
+</html>
